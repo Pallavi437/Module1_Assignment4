@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <head>
      <title>BIBLIOGRAPHY</title>
+     <link rel="stylesheet" type="text/css" href="/css/A4.css">
      <style>
         body{
     margin:0px 70px 0px 70px;
