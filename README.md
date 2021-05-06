@@ -2,62 +2,8 @@
 <!DOCTYPE html>
 <head>
     <title>ASSIGNMENT4</title>
+    <link rel="stylesheet" type="text/css" href="A4.css">
   
-<style>
-    
-body{
-margin:0px 70px 0px 70px;
-}
-h1{
-color: white;
-background-color:rgb(10, 111, 129);
-text-align: center;
-padding: 5px;
-font-family:Arial, Helvetica, sans-serif
-}
-p{
-padding: 10px;
-border: 2px solid rgb(10, 111, 129);
-border-radius: 4px;
-background-color:rgb(231, 247, 250);
-font-family:Arial, Helvetica, sans-serif
-}
-h3{
-color: white;
-background-color:rgb(10, 111, 129);
-text-align: left;
-padding: 5px;
-border-left: 10px;
-font-family:Arial, Helvetica, sans-serif
-}
-.education ul  {
-border: 2px solid rgb(10, 111, 129);
-border-radius: 4px;
-padding-top: 10px ;
-padding-bottom: 10px;
-background-color:rgb(231, 247, 250);
-font-family:Arial, Helvetica, sans-serif
-}
-.skills ul {
-border: 2px solid rgb(10, 111, 129);
-border-radius: 4px;
-padding-top: 10px ;
-padding-bottom: 10px;
-background-color:rgb(231, 247, 250);
-font-family:Arial, Helvetica, sans-serif
-}
-.project ul {
-border: 2px solid rgb(10, 111, 129);
-border-radius: 4px;
-padding-top: 10px ;
-padding-bottom: 10px;
-background-color:rgb(231, 247, 250);
-font-family:Arial, Helvetica, sans-serif
-}
-footer{
-background-color:rgb(10, 111, 129);
-}
- </style>
  </head>
    <body>
     <h1>RESUME</h1>
