@@ -2,9 +2,7 @@
 <!DOCTYPE html>
 <head>
     <title>ASSIGNMENT4</title>
-    
-    
- </head>
+  
 <style>
     
 body{
@@ -60,6 +58,7 @@ footer{
 background-color:rgb(10, 111, 129);
 }
  </style>
+ </head>
    <body>
     <h1>RESUME</h1>
     
